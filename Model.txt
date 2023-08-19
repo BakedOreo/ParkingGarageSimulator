@@ -1,0 +1,564 @@
+ILX
+Integra
+MDX
+NSX
+RDX
+TLX
+ZDX
+Giulia
+Stelvio
+Tonale
+DB11
+DBS
+DBX
+Vantage
+A3
+A4
+A4 allroad
+A5
+A6
+A6 allroad
+A7
+A8
+e-tron
+e-tron GT
+e-tron S
+e-tron S Sportback
+e-tron Sportback
+Q3
+Q4 e-tron
+Q4 Sportback e-tron
+Q5
+Q5 Sportback
+Q7
+Q8
+Q8 e-tron
+R8
+RS 3
+RS 5
+RS 6
+RS 7
+RS e-tron GT
+RS Q8
+S3
+S4
+S5
+S6
+S7
+S8
+SQ5
+SQ5 Sportback
+SQ7
+SQ8
+TT
+Bentayga
+Continental GT
+Flying Spur
+2 Series
+3 Series
+4 Series
+5 Series
+7 Series
+8 Series
+i3
+i4
+i7
+iX
+M2
+M3
+M4
+M5
+M8
+X1
+X2
+X3
+X3 M
+X4
+X4 M
+X5
+X5 M
+X6
+X6 M
+X7
+XM
+Z4
+Enclave
+Encore
+Encore GX
+Envision
+Celestiq
+CT4
+CT5
+Escalade
+Escalade ESV
+LYRIQ
+XT4
+XT5
+XT6
+Blazer
+Blazer EV
+Bolt EUV
+Bolt EV
+Camaro
+Colorado Crew Cab
+Colorado Extended Cab
+Corvette
+Equinox
+Equinox EV
+Express 2500 Cargo
+Express 2500 Passenger
+Express 3500 Cargo
+Express 3500 Passenger
+Malibu
+Silverado 1500 Crew Cab
+Silverado 1500 Double Cab
+Silverado 1500 Limited Crew Cab
+Silverado 1500 Limited Double Cab
+Silverado 1500 Limited Regular Cab
+Silverado 1500 Regular Cab
+Silverado 2500 HD Crew Cab
+Silverado 2500 HD Double Cab
+Silverado 2500 HD Regular Cab
+Silverado 3500 HD Crew Cab
+Silverado 3500 HD Double Cab
+Silverado 3500 HD Regular Cab
+Silverado EV
+Spark
+Suburban
+Tahoe
+Trailblazer
+Traverse
+Trax
+300
+Pacifica
+Pacifica Hybrid
+Challenger
+Charger
+Durango
+Hornet
+296 GTB
+488 Pista
+812 Competizione
+812 Competizione A
+812 GTS
+812 Superfast
+F8
+Portofino
+Roma
+SF90
+500X
+Ocean
+Bronco
+Bronco Sport
+E-Transit 350 Cargo Van
+EcoSport
+Edge
+Escape
+Escape Plug-in Hybrid
+Expedition
+Expedition MAX
+Explorer
+F150 Lightning
+F150 Regular Cab
+F150 Super Cab
+F150 SuperCrew Cab
+F250 Super Duty Crew Cab
+F250 Super Duty Regular Cab
+F250 Super Duty Super Cab
+F350 Super Duty Crew Cab
+F350 Super Duty Regular Cab
+F350 Super Duty Super Cab
+F450 Super Duty Crew Cab
+F450 Super Duty Regular Cab
+Maverick
+Mustang
+Mustang MACH-E
+Ranger SuperCab
+Ranger SuperCrew
+Transit 150 Cargo Van
+Transit 150 Crew Van
+Transit 150 Passenger Van
+Transit 250 Cargo Van
+Transit 250 Crew Van
+Transit 350 Cargo Van
+Transit 350 Crew Van
+Transit 350 HD Cargo Van
+Transit 350 HD Crew Van
+Transit 350 Passenger Van
+Transit Connect Cargo Van
+Transit Connect Passenger Wagon
+Sprinter 1500 Cargo
+Sprinter 1500 Passenger
+Sprinter 2500 Cargo
+Sprinter 2500 Crew
+Sprinter 2500 Passenger
+Sprinter 3500 Cargo
+Sprinter 3500 Crew
+Sprinter 3500 XD Crew
+Sprinter 3500XD Cargo
+Sprinter 4500 Cargo
+Sprinter 4500 Crew
+Electrified G80
+Electrified GV70
+G70
+G80
+G90
+GV60
+GV70
+GV80
+Acadia
+Canyon Crew Cab
+Canyon Extended Cab
+Hummer EV Pickup
+Hummer EV SUV
+Savana 2500 Cargo
+Savana 2500 Passenger
+Savana 3500 Cargo
+Savana 3500 Passenger
+Sierra 1500 Crew Cab
+Sierra 1500 Double Cab
+Sierra 1500 Limited Crew Cab
+Sierra 1500 Limited Double Cab
+Sierra 1500 Limited Regular Cab
+Sierra 1500 Regular Cab
+Sierra 2500 HD Crew Cab
+Sierra 2500 HD Double Cab
+Sierra 2500 HD Regular Cab
+Sierra 3500 HD Crew Cab
+Sierra 3500 HD Double Cab
+Sierra 3500 HD Regular Cab
+Sierra EV
+Terrain
+Yukon
+Yukon XL
+Accord
+Accord Hybrid
+Civic
+Civic Type R
+Clarity Fuel Cell
+Clarity Plug-in Hybrid
+CR-V
+CR-V Hybrid
+HR-V
+Insight
+Odyssey
+Passport
+Pilot
+Prologue
+Ridgeline
+Accent
+Elantra
+Elantra Hybrid
+Elantra N
+IONIQ 5
+IONIQ 6
+IONIQ 7
+Ioniq Electric
+Ioniq Hybrid
+Ioniq Plug-in Hybrid
+Kona
+Kona Electric
+Kona N
+NEXO
+Palisade
+Santa Cruz
+Santa Fe
+Santa Fe Hybrid
+Santa Fe Plug-in Hybrid
+Sonata
+Sonata Hybrid
+Tucson
+Tucson Hybrid
+Tucson Plug-in Hybrid
+Veloster
+Venue
+Q50
+Q60
+QX50
+QX55
+QX60
+QX80
+E-PACE
+F-PACE
+F-TYPE
+I-PACE
+XF
+Cherokee
+Compass
+Gladiator
+Grand Cherokee
+Grand Cherokee 4xe
+Grand Cherokee L
+Grand Wagoneer
+Grand Wagoneer L
+Recon
+Renegade
+Wagoneer
+Wagoneer L
+Wrangler
+Wrangler 4xe
+Wrangler Unlimited
+Wrangler Unlimited 4xe
+Carnival
+EV6
+EV9
+Forte
+K5
+Niro
+Niro EV
+Niro Plug-in Hybrid
+Rio
+Sedona
+Seltos
+Sorento
+Sorento Hybrid
+Sorento Plug-in Hybrid
+Soul
+Sportage
+Sportage Hybrid
+Sportage Plug-in Hybrid
+Stinger
+Telluride
+Aventador
+Huracan
+Urus
+Defender 110
+Defender 130
+Defender 90
+Discovery
+Discovery Sport
+Range Rover
+Range Rover Evoque
+Range Rover Sport
+Range Rover Velar
+ES
+GX
+IS
+LC
+LS
+LX
+NX
+RC
+RX
+RZ
+TX
+UX
+Aviator
+Corsair
+Nautilus
+Navigator
+Navigator L
+Evora GT
+Air
+Ghibli
+Grecale
+Levante
+MC20
+Quattroporte
+CX-3
+CX-30
+CX-5
+CX-50
+CX-70
+CX-9
+CX-90
+MAZDA3
+MAZDA6
+MX-30
+MX-5 Miata
+MX-5 Miata RF
+A-Class
+C-Class
+CLA
+CLS
+E-Class
+G-Class
+GLA
+GLB
+GLC
+GLC Coupe
+GLE
+GLS
+Mercedes-AMG A-Class
+Mercedes-AMG C-Class
+Mercedes-AMG CLA
+Mercedes-AMG CLS
+Mercedes-AMG E-Class
+Mercedes-AMG EQE
+Mercedes-AMG EQS
+Mercedes-AMG G-Class
+Mercedes-AMG GLA
+Mercedes-AMG GLB
+Mercedes-AMG GLC
+Mercedes-AMG GLC Coupe
+Mercedes-AMG GLE
+Mercedes-AMG GLE Coupe
+Mercedes-AMG GLS
+Mercedes-AMG GT
+Mercedes-AMG S-Class
+Mercedes-AMG SL
+Mercedes-EQ EQB
+Mercedes-EQ EQE
+Mercedes-EQ EQE SUV
+Mercedes-EQ EQS
+Mercedes-EQ EQS SUV
+Mercedes-Maybach GLS
+Mercedes-Maybach S-Class
+Metris Cargo
+Metris Passenger
+S-Class
+Sprinter 1500 Cargo
+Sprinter 1500 Passenger
+Sprinter 2500 Cargo
+Sprinter 2500 Crew
+Sprinter 2500 Passenger
+Sprinter 3500 Cargo
+Sprinter 3500 Crew
+Sprinter 3500 XD Cargo
+Sprinter 3500 XD Crew
+Sprinter 4500 Cargo
+Sprinter 4500 Crew
+Clubman
+Convertible
+Countryman
+Hardtop 2 Door
+Hardtop 4 Door
+Eclipse Cross
+Mirage
+Mirage G4
+Outlander
+Outlander PHEV
+Outlander Sport
+Altima
+Ariya
+Armada
+Frontier Crew Cab
+Frontier King Cab
+GT-R
+Kicks
+LEAF
+Maxima
+Murano
+NV1500 Cargo
+NV200
+NV2500 HD Cargo
+NV3500 HD Cargo
+NV3500 HD Passenger
+Pathfinder
+Rogue
+Rogue Sport
+Sentra
+Titan Crew Cab
+Titan King Cab
+TITAN XD Crew Cab
+Versa
+Z
+1
+2
+3
+5
+718 Boxster
+718 Cayman
+718 Spyder
+911
+Cayenne
+Cayenne Coupe
+Macan
+Panamera
+Taycan
+Taycan Cross Turismo
+1500 Classic Crew Cab
+1500 Classic Quad Cab
+1500 Classic Regular Cab
+1500 Crew Cab
+1500 Quad Cab
+2500 Crew Cab
+2500 Mega Cab
+2500 Regular Cab
+3500 Crew Cab
+3500 Mega Cab
+3500 Regular Cab
+ProMaster Cargo Van
+ProMaster City
+ProMaster Window Van
+R1S
+R1T
+Cullinan
+Dawn
+Ghost
+Phantom
+Wraith
+Ascent
+BRZ
+Crosstrek
+Forester
+Impreza
+Legacy
+Outback
+Solterra
+WRX
+Cybertruck
+Model 3
+Model S
+Model X
+Model Y
+4Runner
+Avalon
+Avalon Hybrid
+bZ4X
+C-HR
+Camry
+Camry Hybrid
+Corolla
+Corolla Cross
+Corolla Cross Hybrid
+Corolla Hatchback
+Corolla Hybrid
+Crown
+GR Corolla
+GR Supra
+GR86
+Grand Highlander
+Highlander
+Highlander Hybrid
+Land Cruiser
+Mirai
+Prius
+Prius Prime
+RAV4
+RAV4 Hybrid
+RAV4 Prime
+Sequoia
+Sienna
+Tacoma Access Cab
+Tacoma Double Cab
+Tundra CrewMax
+Tundra Double Cab
+Tundra Hybrid CrewMax
+Venza
+VF 6
+VF 7
+VF 8
+VF 9
+Arteon
+Atlas
+Atlas Cross Sport
+Integra
+MDX
+NSX
+RDX
+TLX
+ZDX
+Giulia
+Stelvio
+Tonale
+DB12
+DBS
+DBX
+Vantage
+A5
+A6
+A4 allroad
+XC40 Recharge
+XC60
+XC90
